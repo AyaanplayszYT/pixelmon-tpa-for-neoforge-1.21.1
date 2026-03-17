@@ -1,4 +1,4 @@
-# Pixelmon TPA Brand
+# Pixelmon TPA
 
 <p align="center">
 	A clean, modern teleport request system for NeoForge servers.<br>
